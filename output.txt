@@ -1,0 +1,21 @@
+Enter the edges (e.g., A B 10):
+ 
+the source is : c
+Node -> Distance -> Path
+a	5			c -> a
+b	2			c -> b
+c	0			c
+e	6			c -> b -> e
+g	15			c -> a -> d -> g
+d	12			c -> a -> d
+f	8			c -> a -> f
+o	15			c -> a -> f -> o
+h	4			c -> h
+i	18			c -> a -> f -> o -> i
+j	8			c -> h -> j
+k	5			c -> k
+l	13			c -> k -> l
+m	15			c -> k -> l -> m
+n	24			c -> a -> d -> g -> n
+s	INF			No path
+t	INF			No path
